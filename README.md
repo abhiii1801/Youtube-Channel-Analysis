@@ -33,3 +33,5 @@ This Python project scrapes video details from a specified YouTube channel using
   - The scraped data is stored in a Pandas DataFrame and then exported as an Excel file (<channel_name>_videos.xlsx), allowing for further analysis and easy accessibility.
 
 ### Excel File ScreenShots: 
+![image](https://github.com/user-attachments/assets/efc519f2-06e9-4af2-8fd7-01c39dad5dcd)
+![image](https://github.com/user-attachments/assets/6c67d70d-42da-4621-899f-726b6bc20f8a)
