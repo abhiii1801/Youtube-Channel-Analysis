@@ -1,4 +1,4 @@
-# YouTube Channel Scraper and Analysis 📺📊
+# YouTube Channel Scraper 📺📊
 This Python project scrapes video details from a specified YouTube channel using Selenium WebDriver. It extracts data such as video title, duration, views, upload date, likes, tags, and comments, then saves it into an Excel file for further analysis.
 ## Features
 
